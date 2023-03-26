@@ -16,15 +16,15 @@ The app should have unit tests for critical functionality.
 Evaluation
 
 ## home page
-<img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679588760/Screenshot_2023-03-23_215210_vicxfg.png">
+<img src="https://res.cloudinary.com/dzwzh1wki/image/upload/v1679809155/101_h91ist.png">
 
 
 ## updating profile
-<img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679588768/Screenshot_2023-03-23_215247_xfz6bx.png">
+<img src="https://res.cloudinary.com/dzwzh1wki/image/upload/v1679809181/102_ivvmqv.png">
 
 
 ## firebase 
-<img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679588746/Screenshot_2023-03-23_214907_qjkxa4.png"/>
+<img src="https://res.cloudinary.com/dzwzh1wki/image/upload/v1679809471/103_dh4lby.png"/>
 he home screen should show the user's feed of content from other users. The feed should show a mix of content types (text, images, videos).
 The profile screen should show the user's profile information and content. The profile should show a mix of content types (text, images, videos).
 
@@ -38,7 +38,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3004/](http://localhost:3004/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
